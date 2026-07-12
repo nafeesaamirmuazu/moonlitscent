@@ -1,12 +1,12 @@
-# 🌙 Moonlit Scent
+# 🌙 Moonlit
 
-> Discover the Art of Luxury Fragrance
+> Discover the Art of Luxury Fragrance and elegant modest wears 
 
-A luxury fragrance portfolio website designed and developed to showcase the Moonlit Scent brand, its collections, and customer engagement channels.
+A luxury fragrance & modest wears portfolio website designed and developed to showcase the Moonlit brand, its collections, and customer engagement channels.
 
 ## ✨ Overview
 
-Moonlit Scent is a modern, responsive portfolio website built to provide customers with an elegant online experience while exploring premium fragrances.
+Moonlit is a modern, responsive portfolio website built to provide customers with an elegant online experience while exploring premium fragrances and elegant wears.
 
 The website highlights:
 
@@ -19,7 +19,7 @@ The website highlights:
 
 ## 🎨 Design Inspiration
 
-The design is inspired by the Moonlit Scent logo, featuring:
+The design is inspired by the Moonlit logo, featuring:
 
 - Luxury black and gold color palette
 - Elegant typography
@@ -68,7 +68,7 @@ https://wa.me/2349069040537text=Hello%20Moonlit%2C%20I%20want%20to%20place%20an%
 - nafeesaamirmuazu@gmail.com
   
   ## 💹 Market Position
-Moonlit operates in the growing fragrance and personal care market, targeting customers who want affordable yet premium-quality scents.
+Moonlit operates in the growing fragrance and personal care market, targeting customers who want affordable yet premium-quality wears & scents.
 
 ## 👩🏽‍💻 Developer
 
